@@ -1,5 +1,8 @@
 title: Zoltan Csiki
 logo: IMG_20240416_210342.jpg
-decription: "Ez az oldal rövid összefoglalója, itt fogom leírni, hogy miről szólnak itt a dolgok."
+description: >
+  Ez egy hosszabb leírás,
+  több sorban írva,
+  de egy sorként lesz kezelve.
 # show_downloads: true
-theme: jekyll-theme-minima
+theme: jekyll-theme-minimal
