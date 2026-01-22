@@ -5,5 +5,7 @@ description: >
   <br>
   Csiki Zoltán vagyok és BI analyst témakörben végzem tanulmányaimat.
   Azért hoztam létre ezt az oldalt, hogy egy helyre összegyűjtve be tudjam mutatni munkáimat.
-show_downloads: false
-theme: jekyll-theme-minimal
+# show_downloads: false
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme
