@@ -5,8 +5,7 @@
 - Zipernowsky
 
 ### Work Experience:
-- [project 1] (https://google.com)
-- project 2
+- project 1 
 
 ### Projects:
 - project3
