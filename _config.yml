@@ -1,10 +1,8 @@
 title: Zoltan Csiki
 logo: IMG_20240416_210342.jpg
 description: >
-  
-  
-  
   Ez egy hosszabb leírás,
+  <br>
   több sorban írva,
   de egy sorként lesz kezelve.
 # show_downloads: true
