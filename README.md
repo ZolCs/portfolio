@@ -13,6 +13,7 @@
   [Link a bizonyítványhoz](https://www.coursera.org/account/accomplishments/professional-cert/338LOQTJFR87)
 
 ## Munkáim:
-- 
-[project 1](http://google.com/)
-<img src="pictures/Market_Mindz.jpg?raw=true"/>
+### - Market Mindz
+Egy kiskereskedemi egység negyedéves pénzügyi jelentése.
+<i> A képre kattintva PDF dokumentum nyílik meg.
+<img src="pictures/Market_Mindz.jpg?raw=true"/>(http://google.com/)
