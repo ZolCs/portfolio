@@ -15,3 +15,4 @@
 ## Munkáim:
 - 
 [project 1](http://google.com/)
+<img src="pictures/Market_Mindz.jpg?raw=true"/>
