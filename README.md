@@ -20,7 +20,7 @@ Egy kiskereskedemi egység negyedéves pénzügyi jelentése.
 <img src="pictures/Market_Mindz.jpg?raw=true"/>
 
 ### - Austin Housing
-Ingatlanos.
+Ingatlanos, leírás kell
 <br>
 <i> A részletekért kattintson [IDE](http://google.com/)
 <img src="pictures/Austin_Housing.jpg?raw=true"/>
