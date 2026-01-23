@@ -15,5 +15,6 @@
 ## Munkáim:
 ### - Market Mindz
 Egy kiskereskedemi egység negyedéves pénzügyi jelentése.
-<i> A képre kattintva PDF dokumentum nyílik meg.
-<img src="pictures/Market_Mindz.jpg?raw=true"/>(http://google.com/)
+<br>
+<i> A részletekért kattintson [IDE](http://google.com/)
+<img src="pictures/Market_Mindz.jpg?raw=true"/>
