@@ -24,3 +24,21 @@ Ingatlanos, leírás kell
 <br>
 <i> A részletekért kattintson [IDE](http://google.com/)
 <img src="pictures/Austin_Housing.png?raw=true"/>
+
+### - HR Report
+HR leírás
+<br>
+<i> A részletekért kattintson [IDE](http://google.com/)
+<img src="pictures/HR_report.png?raw=true"/>
+
+### - Privlaka Housing
+Ingatlanos, leírás kell
+<br>
+<i> A részletekért kattintson [IDE](http://google.com/)
+<img src="pictures/Privlaka_Houses.png?raw=true"/>
+
+### - Kraken Koffe
+Kávés, leírás kell
+<br>
+<i> A részletekért kattintson [IDE](http://google.com/)
+<img src="pictures/Kraken_Koffe.png?raw=true"/>
