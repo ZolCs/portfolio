@@ -23,4 +23,4 @@ Egy kiskereskedemi egység negyedéves pénzügyi jelentése.
 Ingatlanos, leírás kell
 <br>
 <i> A részletekért kattintson [IDE](http://google.com/)
-<img src="pictures/Austin_Housing.jpg?raw=true"/>
+<img src="pictures/Austin_Housing.png?raw=true"/>
